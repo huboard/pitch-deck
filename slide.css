@@ -4,14 +4,17 @@
   src: url('/file/DINWebPro.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
   url('/file/DINWebPro.woff') format('woff'); /* Pretty Modern Browsers */
 }
-#one_01_slide img {
+.logo img {
   width: 320px;
-
+}
+html, body {
+  font-family: 'DINWebPro', 'Helvetica Neue', sans-serif;
 }
 .slide.purple {
   background-color: #684fc8;
   background-image: -webkit-radial-gradient(49% 110%, #684fc8 37%, #18123f 100%);
   background-image: radial-gradient(at 49% 110%, #684fc8 37%, #18123f 100%);
+  background-image: url(one/top.png), radial-gradient(at 49% 110%, #684fc8 37%, #18123f 100%);
   color: #fff;
   font-family: 'DINWebPro', 'Helvetica Neue', sans-serif;
 }
@@ -22,6 +25,6 @@
 .content.subsection h1 {
   background-color: #684fc8;
   background-image: -webkit-radial-gradient(49% 110%, #684fc8 37%, #18123f 100%);
-  background-image: radial-gradient(at 49% 110%, #684fc8 37%, #18123f 100%);
+  background-image: url(one/top.png), radial-gradient(at 49% 110%, #684fc8 37%, #18123f 100%);
   font-family: 'DINWebPro', 'Helvetica Neue', sans-serif;
 }

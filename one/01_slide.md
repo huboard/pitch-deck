@@ -13,7 +13,7 @@
  * 100% bootstrapped
  * ~ 320 Saas customers
  * 5 Enterprise customers
- * Profittable from day 1
+ * Profitable from day 1
 
 !SLIDE[bg=one/ricki-the-developer.png] background-fit subsection
 # Meet Ricki

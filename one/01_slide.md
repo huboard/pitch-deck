@@ -15,6 +15,9 @@
  * 5 Enterprise customers
  * Profitable from day 1
 
+!SLIDE[bg=one/founding-team.png] purple background-fit subsection
+!SLIDE[bg=one/other-ppl.png] purple background-fit subsection
+
 !SLIDE[bg=one/ricki-the-developer.png] background-fit subsection
 # Meet Ricki
 
